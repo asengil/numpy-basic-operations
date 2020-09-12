@@ -1,4 +1,4 @@
-# Numpy Basic Operations
+## Numpy Basic Operations
 
 This repository is intended for beginners who would like to make an introduction to numpy.<br/>
 It is a collection of some of the basic numpy operations (along with a few Python operations).
